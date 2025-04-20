@@ -111,6 +111,7 @@ const Home = () => {
         <p>Desarrollado por: Jennifer Tatiana Guerra Figueroa</p>
         <p>Código: GF22I04002</p>
         <p>Derechos reservados - 2025 - Gastronode</p>
+        <p>Fecha: 19-04-2025</p>
       </footer>
     </div>
   );
